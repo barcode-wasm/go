@@ -551,7 +551,7 @@ func (b *PDF417) Draw(code string, width, height int) (string, error) {
 func GetProductName() string { return "barcode-pao-wasm (Go)" }
 
 // GetVersion returns the version.
-func GetVersion() string { return "1.2.0" }
+func GetVersion() string { return "1.2.1" }
 
 // GetManufacturer returns the manufacturer.
 func GetManufacturer() string { return "Pao" }
