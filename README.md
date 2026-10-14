@@ -14,7 +14,7 @@ Go から使えるバーコード生成ライブラリです。バーコード�
 ## インストール
 
 ```bash
-go get github.com/barcode-wasm/go@v1.2.1
+go get github.com/barcode-wasm/go@v1.2.2
 ```
 
 ## 使い方
@@ -71,7 +71,7 @@ A barcode generation library for Go. The barcode engine is a C++ WebAssembly mod
 ## Install
 
 ```bash
-go get github.com/barcode-wasm/go@v1.2.1
+go get github.com/barcode-wasm/go@v1.2.2
 ```
 
 ## Usage
